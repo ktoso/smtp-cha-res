@@ -1,0 +1,12 @@
+{
+  "name": "haraka_local",
+  "description": "An SMTP Server",
+  "version": "0.0.1",
+  "dependencies": {
+    "leveldown": "^2.1.1",
+    "levelup": "^2.0.1",
+    "nodemailer": "^4.4.0"
+  },
+  "repository": "",
+  "license": "MIT"
+}
